@@ -5,3 +5,4 @@ In cancer research, the identification of differentially expressed genes (DEGs) 
 Key words:
 high-throughout survival analysis
 survival analysis
+高通量生存分析
